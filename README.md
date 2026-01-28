@@ -19,6 +19,8 @@ long-term trends using statistical analysis and visualization techniques.
 ---
 
 ## 📂 Dataset Description
+- The dataset used in this project is available publicly on Kaggle:
+- https://www.kaggle.com/datasets/bushraqurban/tourism-and-economic-impact
 - Country-wise tourism data collected over multiple years
 - Key indicators include:
   - International tourism arrivals
